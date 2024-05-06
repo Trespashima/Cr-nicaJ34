@@ -1,0 +1,70 @@
+header {
+background-color: blue;
+height: 150px;
+width: 150px;
+width: inherit;
+margin: 15px 50px;
+border-radius: 10px;
+border-style: solid;
+text-overflow: ellipsis;
+padding: 10px 10px 10px 10px;
+text-align: center;
+}
+
+#aptas{color: white;}
+
+.Día {
+    color: brown;
+    font-style: oblique;
+    text-align: center;
+}
+.Partido:hover{
+    color: blue;
+    cursor: pointer;}
+
+#Zumet{
+width: 200px;
+height:200px
+
+}
+
+.Partido1{
+    display: block;
+    left: 0%;
+    width: max-content;
+    margin-top: 25px;
+}
+
+#Jornada {
+    height: 100px;
+    width: 100px;
+    background-position: right;
+}
+
+#Power-Contenedor{
+    text-align: center;
+  }
+
+#SEGUNDO {color: white;}
+#TRESPORT {color: white;
+max-width: 1590px;} 
+
+
+.Fondo {
+
+    height: 125px;
+    background-size:contain  
+    
+}
+
+.Video {
+    display: grid;
+    place-content: center;
+}
+
+.Container {
+    display: flex;
+    text-align: left;
+    height: min-content;
+}
+
